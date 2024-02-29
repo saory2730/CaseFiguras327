@@ -24,3 +24,4 @@ lado=parseInt(prompt("ingrese el valor d el lado en  cm"))
         alert("LA OPCIÓN ESCOGIGA NO ES VALIDA")
         break;
 }
+/*codigo para encontrar areas*/
